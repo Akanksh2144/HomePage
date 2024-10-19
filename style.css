@@ -52,6 +52,9 @@ main {
     flex: 1;
 
 }
+.test-container > .test-box > h3 {
+    text-align: center;
+}
 
 .welcome-section {
     background-color: white;
